@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mim Afrin Lia 👋</h1>
 
 <p align="center">
-  <em>Welcome to my interactive portfolio</em>
+  <em>Welcome to my portfolio</em>
 </p>
 
 <p align="center">
