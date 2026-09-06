@@ -9,13 +9,13 @@
   <a href="https://github.com/mimafrinlia12?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" /></a>
 </p>
 
-## 🚀 About Me
+##  About Me
 
-- 💡 I love turning ideas into useful digital experiences.
-- 🌱 Always learning and exploring new technologies.
-- 🤝 Open to collaboration on exciting projects.
+-  I love turning ideas into useful digital experiences.
+-  Always learning and exploring new technologies.
+-  Open to collaboration on exciting projects.
 
-## 🧩 Interactive Portfolio
+## Portfolio
 
 <details>
 <summary><strong>🛠️ Skills</strong></summary>
