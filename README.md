@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mim Af Rin Lia 👋</h1>
 
-<!--
-**mimafrinlia12/mimafrinlia12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Welcome to my interactive portfolio</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/mimafrinlia12?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/mimafrinlia12?label=Followers&style=for-the-badge" /></a>
+  <a href="https://github.com/mimafrinlia12?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💡 I love turning ideas into useful digital experiences.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open to collaboration on exciting projects.
+
+## 🧩 Interactive Portfolio
+
+<details>
+<summary><strong>🛠️ Skills</strong></summary>
+<br />
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</details>
+
+<details>
+<summary><strong>📌 Featured Projects</strong></summary>
+<br />
+
+- 🔹 **Project One** — A web app solving a real-world problem.
+- 🔹 **Project Two** — A creative UI/UX focused frontend project.
+- 🔹 **Project Three** — A practical tool built for productivity.
+
+</details>
+
+<details>
+<summary><strong>📈 GitHub Stats</strong></summary>
+<br />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mimafrinlia12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mimafrinlia12&theme=tokyonight" alt="GitHub streak" />
+</p>
+</details>
+
+## 📫 Contact
+
+- GitHub: [@mimafrinlia12](https://github.com/mimafrinlia12)
+- Email: your-email@example.com
