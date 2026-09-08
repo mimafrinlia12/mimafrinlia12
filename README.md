@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mimafrinlia12?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/mimafrinlia12?label=Followers&style=for-the-badge" /></a>
+  
   <a href="https://github.com/mimafrinlia12?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" /></a>
 </p>
 
