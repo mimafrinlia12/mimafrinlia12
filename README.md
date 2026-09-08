@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  
   <a href="https://github.com/mimafrinlia12?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" /></a>
 </p>
 
@@ -41,10 +40,10 @@
 <summary><strong>📈 GitHub Stats</strong></summary>
 <br />
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mimafrinlia12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mimafrinlia12&theme=tokyonight" alt="GitHub streak" />
 </p>
 </details>
@@ -52,4 +51,3 @@
 ## 📫 Contact
 
 - GitHub: [@mimafrinlia12](https://github.com/mimafrinlia12)
-
