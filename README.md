@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  
   <a href="https://github.com/mimafrinlia12?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-View%20My%20Work-blue?style=for-the-badge" /></a>
 </p>
 
@@ -52,4 +51,3 @@
 ## 📫 Contact
 
 - GitHub: [@mimafrinlia12](https://github.com/mimafrinlia12)
-
